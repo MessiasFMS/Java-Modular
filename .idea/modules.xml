@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-Modular.iml" filepath="$PROJECT_DIR$/Java-Modular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/me.felipe.dio.core/me.felipe.dio.core.iml" filepath="$PROJECT_DIR$/me.felipe.dio.core/me.felipe.dio.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/me.felipe.dio.utils/me.felipe.dio.utils.iml" filepath="$PROJECT_DIR$/me.felipe.dio.utils/me.felipe.dio.utils.iml" />
+    </modules>
+  </component>
+</project>
